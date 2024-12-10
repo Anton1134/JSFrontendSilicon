@@ -17,6 +17,24 @@
  --color-warning: #FFBA08;
  --color-info: #4C82F7;
 }
+.dark {
+  color-scheme: dark;
+
+  --background-color: #0B0F19;
+  --background-secondary-color: #0B0F19;
+  --background-gradient-color: linear-gradient(0deg, #6366f11a 0%; #da46ef0d 42%, #0B0F19 83%;);
+  --background-accent-color: #191A24;
+
+  --button-download-background-color: #E3E5F1;
+  --button-download-text-color: #0B0F19;
+  
+  --text-color: #666b7d;
+  --text-headline-color: #ffffff;
+
+  --border-color: #33354D;
+  --box-shadow: 0 0 5px 2px rgba(180, 180, 180, 0.1);
+}
+
 * {
   box-sizing: border-box;
 }
