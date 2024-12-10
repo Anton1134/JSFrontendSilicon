@@ -365,11 +365,6 @@ ul {
     width: 416px;
     height: 302px;
   }
-  .box-2 {
-    margin-top: 3rem;
-    width: 526px;
-    height: 362px;
-  }
   .icon-container {
     background-color: var(--color-secondary);
     padding: 1rem;
@@ -410,7 +405,7 @@ ul {
     gap: 1rem;
     font-size: 18px;
   }
-  .box-1, .box-2 {
+  .box-1 {
     width: 416px;
     height: 300px;
     border: 1px solid #ffffff;
@@ -431,6 +426,21 @@ ul {
   .stars {
     padding-top: 3rem;
     padding-left: 1rem;
+  }
+  .author {
+    position: absolute;
+    
+
+  }
+  .name {
+    position: absolute;
+    margin-top: -2rem;
+    margin-left: 12rem;
+  }
+  .role {
+    position: absolute;
+    margin-top: -6rem;
+    margin-left: 11rem;
   }
 }
 .faq {  
@@ -627,4 +637,7 @@ height: 50px;
 }
 .greencolor {
   color: #22C55E;
+}
+.yellowcolor {
+  color: #FFBA08;
 }
