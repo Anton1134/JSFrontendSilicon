@@ -21,7 +21,7 @@ const Features = () => {
 
               <div className="feature-card">
                 <div className="icon-container">
-                  <img src={Feature2} alt="" />
+                  <img src={Feature3} alt="" />
                 </div>
                 <div>
                   <h3>Easy Payments</h3>
@@ -30,7 +30,7 @@ const Features = () => {
               </div>
               <div className="feature-card">
                 <div className="icon-container">
-                  <img src={Feature3} alt="" />
+                  <img src={Feature4} alt="" />
                 </div>
                 <div>
                   <h3>Data Security</h3>
@@ -39,7 +39,7 @@ const Features = () => {
               </div>
               <div className="feature-card">
                 <div className="icon-container">
-                  <img src={Feature4} alt="" />
+                  <img src={Feature5} alt="" />
                 </div>
                 <div>
                   <h3>Cost Statistics</h3>
@@ -48,7 +48,7 @@ const Features = () => {
               </div>
               <div className="feature-card">
                 <div className="icon-container">
-                  <img src={Feature5} alt="" />
+                  <img src={Feature6} alt="" />
                 </div>
                 <div>
                   <h3>Support 24/7</h3>
@@ -57,7 +57,7 @@ const Features = () => {
               </div>
               <div className="feature-card">
                 <div className="icon-container">
-                  <img src={Feature6} alt="" />
+                  <img src={Feature7} alt="" />
                 </div>
                 <div>
                   <h3>Regular Cashback</h3>
@@ -66,7 +66,7 @@ const Features = () => {
               </div>
               <div className="feature-card">
                 <div className="icon-container">
-                  <img src={Feature7} alt="" />
+                  <img src={Feature2} alt="" />
                 </div>
                 <div>
                   <h3>Top Standards</h3>
