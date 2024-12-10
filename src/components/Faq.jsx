@@ -16,7 +16,7 @@ const Faq = () => {
               <div className="blue-theme">
                 <img src={faq1} alt="" />
                 <span>Still have questions?</span>
-                <p>Contact us <i className="fa-solid fa-arrow-right"></i> </p>
+                <p>Contact us <i className="fa-solid fa-arrow-right greencolor"></i> </p>
               </div>
               <div className="green-theme">
                 <img src={faq2} alt="" />

@@ -14,13 +14,13 @@ const InfoBox = () => {
             <h2>Make your money<br /> transfer simple and clear</h2>
             <ul>
               <li>
-                <p><i className="fa-regular fa-circle-check" ></i>Banking transactions are free for you</p>
+                <p><i className="fa-regular fa-circle-check checkboxcolor" ></i>Banking transactions are free for you</p>
               </li>
               <li>
-                <p><i className="fa-regular fa-circle-check" ></i> No monthly cash commission</p>
+                <p><i className="fa-regular fa-circle-check checkboxcolor" ></i> No monthly cash commission</p>
               </li>
               <li>
-                <p><i className="fa-regular fa-circle-check" ></i> Manage payments and transactions online</p>
+                <p><i className="fa-regular fa-circle-check checkboxcolor" ></i> Manage payments and transactions online</p>
               </li>
             </ul>
             <img className="btn-grid" src={Img1} alt="" />
